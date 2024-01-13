@@ -65,6 +65,7 @@ nav li a{
     font-size: 4rem;
     font-weight: 700;
     color: var(--Dark-01, #131313);
+    margin-bottom: 20px;
 }
 .banner img{
     width: 100%;
@@ -93,6 +94,7 @@ main{
 }
 .teams-title{
     font-size: 2.8rem;
+    margin-bottom: 20px;
 }
 .teams-title .imp1{
     color: var(--Dark-03, #727272);
@@ -120,6 +122,7 @@ main{
 .features .title{
     border-left: 5px solid #FF900E;
     padding-left: 20px;
+    margin-bottom: 25px;
 }
 .feature-content .card{
     padding: 30px;
@@ -188,8 +191,11 @@ main{
 .sponsor{
     text-align: center;
 }
+.sponsor .title{
+    margin-bottom: 20px;
+}
 .sponsor-img-container{
-    margin-top: 50px;
+    margin-top: 100px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
